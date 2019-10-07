@@ -1,7 +1,8 @@
-package com.example.codingtesttwo
+package com.example.codingtesttwo.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.codingtesttwo.R
 
 class Answer4 : AppCompatActivity() {
 
